@@ -1,6 +1,7 @@
 import express from "express";
 import vocabularyRoute from "./routes/vocabulary.js"; // Import vocabulary route
 import cors from "cors";
+import helmet from "helmet";
 import bodyParser from "body-parser";
 import path from "path"; // Import path module
 import url from "url"; // Import URL module
@@ -10,6 +11,19 @@ const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 // Middleware to parse JSON
 app.use(express.json());
+app.use(helmet({
+    contentSecurityPolicy: {
+        directives: {
+            ...helmet.contentSecurityPolicy.getDefaultDirectives(),
+            "img-src": ["'self'"],
+            "connect-src": ["'self'"],
+        },
+    },
+}));
+helmet.xssFilter(); // Prevent reflected XSS attacks
+helmet.noSniff(); // Prevent MIME type sniffing
+helmet.frameguard({ action: "deny" }); // Prevent clickjacking
+helmet.hidePoweredBy(); // Hide the X-Powered-By header
 app.use(cors({
     methods: ["GET", "POST", "PATCH", "DELETE"], // Allow necessary methods
     allowedHeaders: ["Content-Type"], // Allow necessary headers
