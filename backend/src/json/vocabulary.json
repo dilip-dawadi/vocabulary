@@ -1,0 +1,443 @@
+[
+  {
+    "word": "Abandon",
+    "meaning": "To leave behind or give up",
+    "synonyms": ["Forsake", "Desert"],
+    "romanNepali": "Tyag garnu",
+    "romanNepaliMeaning": "Chhodera jaanu ya chhodnu"
+  },
+  {
+    "word": "Acquaintance",
+    "meaning": "A person you know slightly, but not a close friend",
+    "synonyms": ["Associate", "Colleague"],
+    "romanNepali": "Parichit",
+    "romanNepaliMeaning": "Ali ali chinne manchhe"
+  },
+  {
+    "word": "Adversity",
+    "meaning": "Hardship or misfortune",
+    "synonyms": ["Difficulty", "Hardship"],
+    "romanNepali": "Dukhkha",
+    "romanNepaliMeaning": "Kasht ya samasya"
+  },
+  {
+    "word": "Ambiguous",
+    "meaning": "Open to more than one interpretation",
+    "synonyms": ["Unclear", "Vague"],
+    "romanNepali": "Aspashta",
+    "romanNepaliMeaning": "Aspashta ya duvidha ma parne"
+  },
+  {
+    "word": "Apt",
+    "meaning": "Appropriate or suitable",
+    "synonyms": ["Suitable", "Fitting"],
+    "romanNepali": "Upayukta",
+    "romanNepaliMeaning": "Anukool ya upayukta"
+  },
+  {
+    "word": "Benevolent",
+    "meaning": "Showing kindness or goodwill",
+    "synonyms": ["Kind", "Charitable"],
+    "romanNepali": "Dayalu",
+    "romanNepaliMeaning": "Daya dekhaune"
+  },
+  {
+    "word": "Candid",
+    "meaning": "Honest and straightforward",
+    "synonyms": ["Open", "Sincere"],
+    "romanNepali": "Pushtpust",
+    "romanNepaliMeaning": "Khulla ra imaandar"
+  },
+  {
+    "word": "Concur",
+    "meaning": "To agree or be in accord",
+    "synonyms": ["Agree", "Consent"],
+    "romanNepali": "Saha mat gareko",
+    "romanNepaliMeaning": "Sahamat hunu"
+  },
+  {
+    "word": "Deficient",
+    "meaning": "Lacking something essential",
+    "synonyms": ["Insufficient", "Lacking"],
+    "romanNepali": "Kami",
+    "romanNepaliMeaning": "Aabhav hunu"
+  },
+  {
+    "word": "Diligent",
+    "meaning": "Having or showing care and conscientiousness in one's work",
+    "synonyms": ["Hardworking", "Industrious"],
+    "romanNepali": "Mehnat garne",
+    "romanNepaliMeaning": "Mehnati hunu"
+  },
+  {
+    "word": "Exacerbate",
+    "meaning": "To make a situation worse",
+    "synonyms": ["Aggravate", "Intensify"],
+    "romanNepali": "Jhan bigarnu",
+    "romanNepaliMeaning": "Arko kura bigarnu"
+  },
+  {
+    "word": "Fortitude",
+    "meaning": "Courage in pain or adversity",
+    "synonyms": ["Courage", "Resilience"],
+    "romanNepali": "Sahas",
+    "romanNepaliMeaning": "Himmati hunu"
+  },
+  {
+    "word": "Gravitas",
+    "meaning": "Dignity or seriousness of manner",
+    "synonyms": ["Seriousness", "Solemnity"],
+    "romanNepali": "Gambhirta",
+    "romanNepaliMeaning": "Gambhir hunu"
+  },
+  {
+    "word": "Impetuous",
+    "meaning": "Acting quickly without thought or care",
+    "synonyms": ["Impulsive", "Rash"],
+    "romanNepali": "Abhigami",
+    "romanNepaliMeaning": "Sochbichar nagari kaam garnu"
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "Certain to happen; unavoidable",
+    "synonyms": ["Unavoidable", "Certain"],
+    "romanNepali": "Avashyak",
+    "romanNepaliMeaning": "Anivarya hunu"
+  },
+  {
+    "word": "Ingenious",
+    "meaning": "Clever, original, and inventive",
+    "synonyms": ["Creative", "Inventive"],
+    "romanNepali": "Chatur",
+    "romanNepaliMeaning": "Pratibhawan hunu"
+  },
+  {
+    "word": "Juxtapose",
+    "meaning": "To place two things side by side for comparison",
+    "synonyms": ["Compare", "Contrast"],
+    "romanNepali": "Jodnu",
+    "romanNepaliMeaning": "Tulana garna sangai rakhnu"
+  },
+  {
+    "word": "Lament",
+    "meaning": "To express grief or sorrow",
+    "synonyms": ["Mourn", "Grieve"],
+    "romanNepali": "Shok mannu",
+    "romanNepaliMeaning": "Dukha prakat garnu"
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "Showing great attention to detail",
+    "synonyms": ["Careful", "Precise"],
+    "romanNepali": "Sudhikrit",
+    "romanNepaliMeaning": "Bistarit rup ma dyan dinu"
+  },
+  {
+    "word": "Plausible",
+    "meaning": "Seemingly reasonable or probable",
+    "synonyms": ["Believable", "Credible"],
+    "romanNepali": "Vishwasniya",
+    "romanNepaliMeaning": "Bishwas garna milne"
+  },
+  {
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from difficulties",
+    "synonyms": ["Strong", "Tough"],
+    "romanNepali": "Sankat se ubarne sakne",
+    "romanNepaliMeaning": "Jatil awastha bata chito niklanu"
+  },
+  {
+    "word": "Skeptical",
+    "meaning": "Not easily convinced; doubtful",
+    "synonyms": ["Doubtful", "Suspicious"],
+    "romanNepali": "Shanka",
+    "romanNepaliMeaning": "Ashanka garnu"
+  },
+  {
+    "word": "Subterfuge",
+    "meaning": "Deceit used in order to achieve one's goal",
+    "synonyms": ["Trickery", "Deception"],
+    "romanNepali": "Jhut",
+    "romanNepaliMeaning": "Farak parne dhamila kura"
+  },
+  {
+    "word": "Tantamount",
+    "meaning": "Equivalent in seriousness to",
+    "synonyms": ["Equivalent", "Identical"],
+    "romanNepali": "Samana",
+    "romanNepaliMeaning": "Ekai jasto"
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "Being watchful and alert",
+    "synonyms": ["Watchful", "Observant"],
+    "romanNepali": "Jagruk",
+    "romanNepaliMeaning": "Hoshiyar ra sajag"
+  },
+  {
+    "word": "Volatile",
+    "meaning": "Likely to change rapidly and unpredictably",
+    "synonyms": ["Unstable", "Erratic"],
+    "romanNepali": "Aparibartit",
+    "romanNepaliMeaning": "Chito pariwartan hune"
+  },
+  {
+    "word": "Wistful",
+    "meaning": "Longing or yearning for something lost",
+    "synonyms": ["Nostalgic", "Longing"],
+    "romanNepali": "Bishaal",
+    "romanNepaliMeaning": "Biti sakeko samaya ya kura lai samjhanu"
+  },
+  {
+    "word": "Benevolent",
+    "meaning": "Showing kindness or goodwill",
+    "synonyms": ["Kind", "Charitable"],
+    "romanNepali": "Dayalu",
+    "romanNepaliMeaning": "Daya dekhaune"
+  },
+  {
+    "word": "Candid",
+    "meaning": "Honest and straightforward",
+    "synonyms": ["Open", "Sincere"],
+    "romanNepali": "Pushtpust",
+    "romanNepaliMeaning": "Khulla ra imaandar"
+  },
+  {
+    "word": "Concur",
+    "meaning": "To agree or be in accord",
+    "synonyms": ["Agree", "Consent"],
+    "romanNepali": "Saha mat gareko",
+    "romanNepaliMeaning": "Sahamat hunu"
+  },
+  {
+    "word": "Deficient",
+    "meaning": "Lacking something essential",
+    "synonyms": ["Insufficient", "Lacking"],
+    "romanNepali": "Kami",
+    "romanNepaliMeaning": "Aabhav hunu"
+  },
+  {
+    "word": "Diligent",
+    "meaning": "Having or showing care and conscientiousness in one's work",
+    "synonyms": ["Hardworking", "Industrious"],
+    "romanNepali": "Mehnat garne",
+    "romanNepaliMeaning": "Mehnati hunu"
+  },
+  {
+    "word": "Exacerbate",
+    "meaning": "To make a situation worse",
+    "synonyms": ["Aggravate", "Intensify"],
+    "romanNepali": "Jhan bigarnu",
+    "romanNepaliMeaning": "Arko kura bigarnu"
+  },
+  {
+    "word": "Fortitude",
+    "meaning": "Courage in pain or adversity",
+    "synonyms": ["Courage", "Resilience"],
+    "romanNepali": "Sahas",
+    "romanNepaliMeaning": "Himmati hunu"
+  },
+  {
+    "word": "Gravitas",
+    "meaning": "Dignity or seriousness of manner",
+    "synonyms": ["Seriousness", "Solemnity"],
+    "romanNepali": "Gambhirta",
+    "romanNepaliMeaning": "Gambhir hunu"
+  },
+  {
+    "word": "Impetuous",
+    "meaning": "Acting quickly without thought or care",
+    "synonyms": ["Impulsive", "Rash"],
+    "romanNepali": "Abhigami",
+    "romanNepaliMeaning": "Sochbichar nagari kaam garnu"
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "Certain to happen; unavoidable",
+    "synonyms": ["Unavoidable", "Certain"],
+    "romanNepali": "Avashyak",
+    "romanNepaliMeaning": "Anivarya hunu"
+  },
+  {
+    "word": "Ingenious",
+    "meaning": "Clever, original, and inventive",
+    "synonyms": ["Creative", "Inventive"],
+    "romanNepali": "Chatur",
+    "romanNepaliMeaning": "Pratibhawan hunu"
+  },
+  {
+    "word": "Juxtapose",
+    "meaning": "To place two things side by side for comparison",
+    "synonyms": ["Compare", "Contrast"],
+    "romanNepali": "Jodnu",
+    "romanNepaliMeaning": "Tulana garna sangai rakhnu"
+  },
+  {
+    "word": "Lament",
+    "meaning": "To express grief or sorrow",
+    "synonyms": ["Mourn", "Grieve"],
+    "romanNepali": "Shok mannu",
+    "romanNepaliMeaning": "Dukha prakat garnu"
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "Showing great attention to detail",
+    "synonyms": ["Careful", "Precise"],
+    "romanNepali": "Sudhikrit",
+    "romanNepaliMeaning": "Bistarit rup ma dyan dinu"
+  },
+  {
+    "word": "Plausible",
+    "meaning": "Seemingly reasonable or probable",
+    "synonyms": ["Believable", "Credible"],
+    "romanNepali": "Vishwasniya",
+    "romanNepaliMeaning": "Bishwas garna milne"
+  },
+  {
+    "word": "Resilient",
+    "meaning": "Able to recover quickly from difficulties",
+    "synonyms": ["Strong", "Tough"],
+    "romanNepali": "Sankat se ubarne sakne",
+    "romanNepaliMeaning": "Jatil awastha bata chito niklanu"
+  },
+  {
+    "word": "Skeptical",
+    "meaning": "Not easily convinced; doubtful",
+    "synonyms": ["Doubtful", "Suspicious"],
+    "romanNepali": "Shanka",
+    "romanNepaliMeaning": "Ashanka garnu"
+  },
+  {
+    "word": "Subterfuge",
+    "meaning": "Deceit used in order to achieve one's goal",
+    "synonyms": ["Trickery", "Deception"],
+    "romanNepali": "Jhut",
+    "romanNepaliMeaning": "Farak parne dhamila kura"
+  },
+  {
+    "word": "Tantamount",
+    "meaning": "Equivalent in seriousness to",
+    "synonyms": ["Equivalent", "Identical"],
+    "romanNepali": "Samana",
+    "romanNepaliMeaning": "Ekai jasto"
+  },
+  {
+    "word": "Vigilant",
+    "meaning": "Being watchful and alert",
+    "synonyms": ["Watchful", "Observant"],
+    "romanNepali": "Jagruk",
+    "romanNepaliMeaning": "Hoshiyar ra sajag"
+  },
+  {
+    "word": "Volatile",
+    "meaning": "Likely to change rapidly and unpredictably",
+    "synonyms": ["Unstable", "Erratic"],
+    "romanNepali": "Aparibartit",
+    "romanNepaliMeaning": "Chito pariwartan hune"
+  },
+  {
+    "word": "Wistful",
+    "meaning": "Longing or yearning for something lost",
+    "synonyms": ["Nostalgic", "Longing"],
+    "romanNepali": "Bishaal",
+    "romanNepaliMeaning": "Biti sakeko samaya ya kura lai samjhanu"
+  },
+  {
+    "word": "Zealous",
+    "meaning": "Full of energy and enthusiasm",
+    "synonyms": ["Passionate", "Fervent"],
+    "romanNepali": "Utsahi",
+    "romanNepaliMeaning": "Utshah ra junoon se bhareko"
+  },
+  {
+    "word": "Alleviate",
+    "meaning": "To make a situation or problem less severe",
+    "synonyms": ["Ease", "Relieve"],
+    "romanNepali": "Sahal garnu",
+    "romanNepaliMeaning": "Samasya ko ghambeerta kam garne"
+  },
+  {
+    "word": "Brevity",
+    "meaning": "Concise and exact use of words",
+    "synonyms": ["Conciseness", "Shortness"],
+    "romanNepali": "Sankshiptata",
+    "romanNepaliMeaning": "Alp samayama spashta prastuti"
+  },
+  {
+    "word": "Calamity",
+    "meaning": "A disaster or catastrophe",
+    "synonyms": ["Disaster", "Tragedy"],
+    "romanNepali": "Apatkalin ghatna",
+    "romanNepaliMeaning": "Bada samasya ya anhooni"
+  },
+  {
+    "word": "Acknowledge",
+    "meaning": "To accept or admit the existence or truth of something",
+    "synonyms": ["Recognize", "Accept"],
+    "romanNepali": "Swikarnu",
+    "romanNepaliMeaning": "Kahailekoi baato swikar garnu"
+  },
+  {
+    "word": "Comprehensive",
+    "meaning": "Including all or nearly all elements or aspects",
+    "synonyms": ["Inclusive", "Thorough"],
+    "romanNepali": "Samagra",
+    "romanNepaliMeaning": "Purna roopma sametne"
+  },
+  {
+    "word": "Discrepancy",
+    "meaning": "A lack of compatibility or similarity between two or more facts",
+    "synonyms": ["Inconsistency", "Difference"],
+    "romanNepali": "Bibhinnata",
+    "romanNepaliMeaning": "Tulyan garne samaanata ko kami"
+  },
+  {
+    "word": "Eloquent",
+    "meaning": "Fluent or persuasive in speaking or writing",
+    "synonyms": ["Articulate", "Persuasive"],
+    "romanNepali": "Prabhavit",
+    "romanNepaliMeaning": "Bahut achha ra spashth bolne"
+  },
+  {
+    "word": "Foster",
+    "meaning": "To encourage the development of something",
+    "synonyms": ["Encourage", "Promote"],
+    "romanNepali": "Prashansha garnu",
+    "romanNepaliMeaning": "Kisika yathartha ko samarthan garnu"
+  },
+  {
+    "word": "Implication",
+    "meaning": "The conclusion that can be drawn from something, although it is not explicitly stated",
+    "synonyms": ["Consequences", "Result"],
+    "romanNepali": "Prabhav",
+    "romanNepaliMeaning": "Kahailekoi baato ko parinaam"
+  },
+  {
+    "word": "Metamorphosis",
+    "meaning": "A change of the form or nature of a thing or person into a completely different one",
+    "synonyms": ["Transformation", "Change"],
+    "romanNepali": "Rupantar",
+    "romanNepaliMeaning": "Purano awastha bata naye roopma anukaran"
+  },
+  {
+    "word": "Obsolete",
+    "meaning": "No longer produced or used; out of date",
+    "synonyms": ["Outdated", "Old-fashioned"],
+    "romanNepali": "Puratano",
+    "romanNepaliMeaning": "Janko abhyog hune garna sambhavna chhaina"
+  },
+  {
+    "word": "Rejuvenate",
+    "meaning": "To make someone or something look or feel better, younger, or fresher",
+    "synonyms": ["Revive", "Renew"],
+    "romanNepali": "Navin banau",
+    "romanNepaliMeaning": "Naya roop dinu ya dhirey samay pachi taaza banau"
+  },
+  {
+    "word": "Substantiate",
+    "meaning": "To provide evidence to support or prove the truth of something",
+    "synonyms": ["Verify", "Support"],
+    "romanNepali": "Pramanit garnu",
+    "romanNepaliMeaning": "Kahailekoi baato ya kaam ko sahiata pramanit garnu"
+  }
+]
