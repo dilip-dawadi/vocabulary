@@ -33,7 +33,7 @@ app.get("*", (req, res) => {
   res.sendFile(distPath);
 });
 
-const PORT = process.env.PORT || 5000;
-app.listen(5000, "10.0.0.45", () => {
+const PORT = process.env.PORT || 6000;
+app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });

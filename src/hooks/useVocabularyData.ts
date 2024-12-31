@@ -2,8 +2,15 @@ import { useQuery, useMutation, useQueryClient } from "@tanstack/react-query";
 import axios from "axios";
 import { VocabularyItemType } from "../types";
 
+let baseURL;
+
+if (import.meta.env.MODE === "production") {
+  baseURL = import.meta.env.VITE_BASE_URL_PROD;
+} else {
+  baseURL = import.meta.env.VITE_BASE_URL_DEV;
+}
 const axiosInstance = axios.create({
-  baseURL: "http://10.0.0.45:5000", // Replace with your actual base URL
+  baseURL: baseURL, // Replace with your actual base URL
 });
 
 // Function to fetch vocabulary data from the backend
