@@ -31,11 +31,12 @@ const VocabularyList: React.FC = () => {
     newPage: number,
     understood: boolean | undefined
   ) => {
+    console.log(category, newPage, understood, "hi");
+    setUnderstoodFilter(understood);
     setPage((prev) => ({
       ...prev, // Spread the previous state
       [category]: newPage, // Update the specific category
     }));
-    setUnderstoodFilter(understood);
   };
 
   const { data, isLoading, error } = useVocabularyData(
@@ -143,7 +144,15 @@ const VocabularyList: React.FC = () => {
         <div className="dropdown-container">
           <select
             className="dropdown-select"
-            onChange={(e) =>
+            value={
+              understoodFilter === true
+                ? "understood"
+                : understoodFilter === false
+                ? "ununderstood"
+                : "all"
+            }
+            onChange={(e) => {
+              console.log(e.target.value, "hi");
               handlePageChange(
                 e.target.value as "all" | "understood" | "ununderstood",
                 page[e.target.value as "all" | "understood" | "ununderstood"],
@@ -152,8 +161,8 @@ const VocabularyList: React.FC = () => {
                   : e.target.value === "ununderstood"
                   ? false
                   : undefined
-              )
-            }
+              );
+            }}
           >
             {isTotalCountLoading && (
               <option className="loading-height">Loading...</option>

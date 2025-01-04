@@ -6,7 +6,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <VocabularyList />
-      <div className="text-center font-bold margin-button-20">
+      <div className="text-center font-bold margin-button-10">
         Learning is the key for success {";>"}
       </div>
     </div>

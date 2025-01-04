@@ -29,10 +29,10 @@ const DeleteVocabularyForm: React.FC<DeleteVocabularyFormProps> = ({
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <h2>Delete Vocabulary</h2>
         <p>Are you sure u want to delete?</p>
-        <button className="btn-danger" onClick={handleSubmit}>
+        <button className="btn-danger margin-top-10" onClick={handleSubmit}>
           Yes, Delete
         </button>
-        <button className="close-btn" onClick={onClose}>
+        <button className="close-btn " onClick={onClose}>
           x
         </button>
       </div>

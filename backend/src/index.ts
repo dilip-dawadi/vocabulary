@@ -6,6 +6,7 @@ import bodyParser from "body-parser";
 import path from "path"; // Import path module
 import url from "url"; // Import URL module
 const app = express();
+
 // Get the directory name using import.meta.url
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -49,7 +50,7 @@ app.get("*", (req, res) => {
   res.sendFile(distPath);
 });
 
-const PORT = process.env.PORT || 6000;
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
